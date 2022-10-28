@@ -5,7 +5,7 @@
 - 📫 Reach me at khushbuchouhan44@gmail.com or www.linkedin.com/in/khushbu-s-chouhan. Here are my other profiles-  
 TableauPublic: https://public.tableau.com/app/profile/khushbu.chouhan  
 Hackerrank: https://www.hackerrank.com/khushbuchouhan44  
-Trailhead: https://www.trailblazer.me/id/kchouhan07
+Trailhead: https://trailblazer.me/id/kchouhan07
 
 <!---
 KhushbuChouhan44/KhushbuChouhan44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
